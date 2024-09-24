@@ -1,11 +1,11 @@
 import React from 'react';
-import Contador from './Componentes/Contador'; // Ajusta la ruta si es necesario
-import './App.css'; // Si tienes estilos globales
+import Contador from './Componentes/Contador'; 
+import './App.css'; 
 
 function App() {
   return (
     <div className="App">
-      <Contador />
+      <Contador />  
     </div>
   );
 }
